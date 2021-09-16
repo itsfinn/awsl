@@ -18,7 +18,7 @@
 
 (() => {
 
-  const DEFAULT_WORDS = '草;awsl';
+  const DEFAULT_WORDS = '哈哈哈哈哈哈哈';
   const MAX_WORDS = 3;
 
   async function recreateButtons(buttonBar, textarea, submit) {
